@@ -8,7 +8,16 @@ html {
   font-size: 62.5%;
 }
 
-.container {
+.container1 {
+  width: 50vw;
+  height: 15vh;
+  display: flex;
+  margin: 0 auto;
+  border: .3rem solid red;
+  justify-content: center;
+}
+
+.container2 {
   width: 50vw;
   height: 75vh;
   display: flex;
