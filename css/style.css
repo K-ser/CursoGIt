@@ -36,7 +36,7 @@ html {
   height: 75vh;
   display: flex;
   margin: 0 auto;
-  color: aqua;
+  color: palevioletred;
   border: .1rem solid red;
   justify-content: center;
 }
