@@ -8,11 +8,15 @@ html {
   font-size: 62.5%;
 }
 
+body {
+  background-color: #4A92CA;
+}
+
 .container1 {
   width: 50vw;
   height: 15vh;
   display: flex;
-  margin: 2.5rem auto;
+  margin: auto;
   background-color: lightgreen;
   border: .2rem solid lawngreen;
   align-items: center;
@@ -36,8 +40,9 @@ html {
   height: 75vh;
   display: flex;
   margin: 0 auto;
+  background-color: white;
   color: palevioletred;
-  border: .1rem solid red;
+  border: .1rem solid black;
   justify-content: center;
 }
 
@@ -53,4 +58,8 @@ html {
   font-size: 1.8rem;
   margin: 1.5rem 10rem;
   font-family: Arial, Helvetica, sans-serif;
+}
+
+#logo {
+  width: 8rem;
 }
