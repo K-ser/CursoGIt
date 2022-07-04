@@ -63,3 +63,11 @@ body {
 #logo {
   width: 8rem;
 }
+#footer {
+  width: 50vw;
+  height: 5vh;
+  font-size: 2rem;
+  background-color: blueviolet;
+  text-align: center;
+  margin: 0 auto;
+}
