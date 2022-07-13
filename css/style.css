@@ -14,7 +14,7 @@ body {
 
 .container1 {
   width: 50vw;
-  height: 15vh;
+  height: 15%;
   display: flex;
   margin: auto;
   background-color: lightgreen;
@@ -37,7 +37,7 @@ body {
 
 .container2 {
   width: 50vw;
-  height: 75vh;
+  height: 75%;
   display: flex;
   margin: 0 auto;
   background-color: white;
@@ -70,4 +70,10 @@ body {
   background-color: blueviolet;
   text-align: center;
   margin: 0 auto;
+}
+
+#yuta {
+  text-align: center;
+  width: 50%;
+  margin: 0 25%;
 }
